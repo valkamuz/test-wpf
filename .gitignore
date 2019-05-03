@@ -1,0 +1,14 @@
+
+# Visual studio
+*.vs
+*.csproj.user
+TestWpf/packages/
+
+
+# Bin, obj
+TestWpf/bin/
+TestWpf/obj/
+
+
+# Temporary files
+*~
